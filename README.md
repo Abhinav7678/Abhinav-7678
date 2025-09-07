@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Abhinav Mishra</h1>
-<h3>I'm currently working as an Associate System Engineer in Tata Consultancy Services. I have done my Bachelor's degree in Information Technology from Ajay Kumar Garg Engineering College Ghaziabad. I'm a passionate Software Engineer and expert in Networking, Database, Data Structures and Algorithms, Operating Systems.</h3>
+<h3>I'm currently working as an Associate System Engineer in Tata Consultancy Services. I have done my Bachelor's degree in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad. I'm a passionate Software Engineer and expert in Networking, Database, Data Structures and Algorithms, Operating Systems.</h3>
 <h2 align="center">Active Developer || Creative Problem Solver || Passionate about DevOps</h2>
 
 ## 🌐 Socials:
